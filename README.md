@@ -10,5 +10,6 @@ The product is open-source and free to use.
 
 Getting Started Video is uploaded at https://youtu.be/XfYQ6Y9PPnI
 
-Lead Developer / Programmer - Ajit Paul Abraham
+Lead Developer / Programmer - Ajit Paul Abraham,
+
 Lead Researcher - Jani Das
